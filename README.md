@@ -11,3 +11,5 @@ bwwwwwwwwwwwwaaaaaaaaaaaaaaaaa
 =======
 	Tejas le kk file push gardiyo
 >>>>>>> 3ab1591ebd516b08f93bdbcc94740867d4172d7e
+
+lol garne ho mula 
