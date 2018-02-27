@@ -5,24 +5,18 @@
 	EDIT
 	EDIT AGAIN
 bwaaaaaaaaaaaaa
-
+<<<<<<< HEAD
 
 bwwwwwwwwwwwwaaaaaaaaaaaaaaaaa
-
+=======
 	Tejas le kk file push gardiyo
+>>>>>>> 3ab1591ebd516b08f93bdbcc94740867d4172d7e
 
-
+<<<<<<< HEAD
 lol garne ho mula 
-
+=======
 # HAIT!
-
-
-# Ma edit gardai chu bich bich ma tejas le k garcha heram
-- Malai bich ma edit nagar re yr
-katro himmat ho
-
-
+>>>>>>> 8f3b6b21c1c3adce056e896fa484c6c9d052129c
 
 akele xa bhanera hepeko
-**Hepdine ho purai**
 
